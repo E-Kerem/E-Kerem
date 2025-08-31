@@ -32,8 +32,8 @@
 - 🤖 **Focus Areas:** AI, Robotics, Computer Vision, Distributed Systems
 
 ## 📊 GitHub Analytics
+
 <table>
-  
 <tr>
 <td width="50%">
 <p align="center">
