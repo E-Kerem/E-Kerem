@@ -32,3 +32,18 @@
 - 🤖 **Focus Areas:** AI, Robotics, Computer Vision, Distributed Systems
 
 ## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-Kerem&theme=radical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true&area_color=ff6b6b&custom_title=Contribution%20Graph&width=400" alt="E-Kerem" />
+</p>
+</td>
+<td width="50%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Kerem&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=ff6b6b&sideNums=ffffff&sideLabels=ff6b6b&dates=ffffff&width=400" alt="E-Kerem" />
+</p>
+</td>
+</tr>
+</table>
