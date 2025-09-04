@@ -41,7 +41,7 @@
 </td>
 <td width="50%">
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=E-Kerem&theme=radical&hide_border=true&border_radius=4.4&card_width=492&card_height=206&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=E-Kerem&theme=radical&hide_border=true&border_radius=4.4&card_width=492&card_height=208&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
 </p>
 </td>
 </tr>
