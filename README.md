@@ -32,17 +32,16 @@
 - 🤖 **Focus Areas:** AI, Robotics, Computer Vision, Distributed Systems
 
 ## 📊 GitHub Analytics
-
 <table>
 <tr>
 <td width="50%">
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-Kerem&theme=radical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true&area_color=ff6b6b&custom_title=Contribution%20Graph&width=400" alt="E-Kerem" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-Kerem&theme=radical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true&area_color=ff6b6b&custom_title=Contribution%20Graph&width=370&height=436&radius=14" alt="E-Kerem" />
 </p>
 </td>
 <td width="50%">
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Kerem&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=ff6b6b&sideNums=ffffff&sideLabels=ff6b6b&dates=ffffff&width=400" alt="E-Kerem" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=E-Kerem&theme=radical&hide_border=true&border_radius=4.4&card_width=492&card_height=180&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
 </p>
 </td>
 </tr>
