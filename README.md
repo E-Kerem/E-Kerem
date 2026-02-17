@@ -26,8 +26,8 @@
 
 
 ## 🚀 About Me
-- 🔭 **Full-Stack Engineer** at **OPLOG** - Building warehouse management and robotic automation systems
-- 🚀 **Co-Founder** at **Grit Technologies** - Delivering custom software solutions for clients
+- 🔭 **Full-Stack Engineer** at **Udemy**
+- 🚀 **Ex Co-Founder** at **Grit Technologies** - Delivering custom software solutions for clients
 - 🎓 **Computer Science Graduate** from **Bilkent University** 
 - 🤖 **Focus Areas:** AI, Robotics, Computer Vision, Distributed Systems
 
