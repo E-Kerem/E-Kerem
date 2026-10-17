@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Efe Kerem Kesgin</h1>
-<h3 align="center">Full-Stack Engineer | Robotics & AI Enthusiast | Co-Founder @ Grit Technologies</h3>
+<h3 align="center">Full-Stack Engineer | Robotics & AI Enthusiast | SWE @ Udemy & Coursera </h3>
 
 <!-- Typing Animation -->
 <p align="center">
