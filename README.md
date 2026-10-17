@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 - 🔭 **Full-Stack Engineer** at **Udemy**
-- 🚀 **Ex Co-Founder** at **Grit Technologies** - Delivering custom software solutions for clients
+- 🚀 **Ex Co-Founder** at **Grit Technologies**
 - 🎓 **Computer Science Graduate** from **Bilkent University** 
 - 🤖 **Focus Areas:** AI, Robotics, Computer Vision, Distributed Systems
 
