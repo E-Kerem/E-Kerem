@@ -6,14 +6,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+WMS+and+Robotic+Automation+Systems;2%2B+Years+Experience+in+Full-Stack+Development;Working+with+AI%2FML+and+Computer+Vision;Co-Founder+at+Grit+Technologies" alt="Typing SVG" />
   </a>
-
-   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=E-Kerem&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 </p>
 
-<!-- Profile Views and Contact Buttons -->
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FE-Kerem&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%23ff6b6b&style=for-the-badge" alt="Profile Views" />
+</div>
 
+<!-- Contact Buttons -->
 <div align="center">
   <samp>
     <p align="center">
@@ -37,7 +37,7 @@
 <tr>
 <td width="50%">
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-Kerem&theme=radical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true&area_color=ff6b6b&custom_title=Contribution%20Graph&width=370&height=500&radius=14" alt="E-Kerem" />
+  <img src="https://kerem-activity-graph.vercel.app/graph?username=E-Kerem&theme=radical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true&area_color=ff6b6b&custom_title=Contribution%20Graph&width=370&height=500&radius=14&v=2" alt="E-Kerem" />
 </p>
 </td>
 <td width="50%">
